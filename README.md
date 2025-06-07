@@ -1,0 +1,1 @@
+Project 1 of 2 from my CS101, Intro to Programming class. We were given an almost working copy of the popular web game 2048, with the task of fixing the game. The section we had to fix was in 2049_helper.h, specifically the "move_up", "move_down", "move_left", and "move_right" functions.
